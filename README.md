@@ -6,12 +6,12 @@
 > ![](https://raw.githubusercontent.com/IntroProgramacion-P-Oct21-Feb22/taller3/main/imagenes/ejercicio1.png)
 
 ### Ejercicio02
-- Crear un proyecto en el IDE Netbeans llamado Ejercicio02
+- Analice y complete el proyecto en el IDE Netbeans llamado Ejercicio02
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
 > ![](https://raw.githubusercontent.com/IntroProgramacion-P-Oct21-Feb22/taller3/main/imagenes/ejercicio2.png)
 
 ### Ejercicio03
-- Crear un proyecto en el IDE Netbeans llamado Ejercicio03
+- Complete el proyecto en el IDE Netbeans llamado Ejercicio03
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
 > ![](https://raw.githubusercontent.com/IntroProgramacion-P-Oct21-Feb22/taller3/main/imagenes/ejercicio3.png)
 
